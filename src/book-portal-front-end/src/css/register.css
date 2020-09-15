@@ -1,0 +1,11 @@
+.Register-Form {
+  padding-top: 50px;
+}
+
+h1 {
+  color: black;
+  text-shadow: 1px 1px gray;
+  font-size: 3vw;
+  margin-top: 15vh;
+  font-family: Berkshire Swash;
+}

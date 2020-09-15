@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(
+    rgba(167, 197, 223, 0.6),
+    rgba(117, 82, 146, 0.4)
+  );
+  background-size: cover;
+  background-position: center;
+}
